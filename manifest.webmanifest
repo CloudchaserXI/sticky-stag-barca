@@ -1,0 +1,31 @@
+{
+  "name": "Sticky's Stag \u2014 Barcelona",
+  "short_name": "Sticky's Stag",
+  "description": "The Sticky T send-off \u00b7 Barcelona \u00b7 26\u201328 Jun 2026",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ECE7DB",
+  "theme_color": "#D8381A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
